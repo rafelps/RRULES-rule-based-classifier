@@ -1,0 +1,12 @@
+Weather,Trees,Temperature,Season (Class)
+rainy,yellow,average,autumn
+rainy,leafless,low,winter
+snowy,leafless,low,winter
+sunny,leafless,low,winter
+rainy,leafless,average,autumn
+rainy,green,high,summer
+rainy,green,average,spring
+sunny,green,average,spring
+sunny,green,high,summer
+sunny,yellow,average,autumn
+snowy,green,low,winter

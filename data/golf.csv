@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Windy,Decision
+rainy,2,2,1,0
+rainy,1,1,1,0
+overcast,2,2,1,1
+overcast,3,1,0,1
+rainy,2,1,0,1
+overcast,1,1,1,1
+sunny,2,1,1,1
+sunny,3,2,1,0
+sunny,3,2,0,0
+overcast,3,1,0,1
+rainy,1,1,0,1
+rainy,2,2,0,1
+sunny,2,2,0,0
+sunny,1,1,0,1

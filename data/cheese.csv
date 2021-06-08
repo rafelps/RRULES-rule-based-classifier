@@ -1,0 +1,30 @@
+Course,Dessert,Savouriness,Consistency,Cheese
+appetizer,no,mild,soft,montrachet
+appetizer,no,flavourful,soft,montrachet
+appetizer,no,pungent,soft,gorgonzola
+appetizer,no,mild,firm,stilton
+appetizer,no,flavourful,firm,stilton
+appetizer,no,pungent,firm,kasseri
+salad,no,mild,soft,montrachet
+salad,no,flavourful,soft,montrachet
+salad,no,pungent,soft,gorgonzola
+salad,no,mild,firm,stilton
+salad,no,flavourful,firm,stilton
+salad,no,pungent,firm,kasseri
+none,yes,mild,soft,camembert
+none,yes,flavourful,soft,camembert
+none,yes,pungent,soft,tallegio
+none,yes,mild,firm,italian fontina
+none,yes,flavourful,firm,italian fontina
+none,yes,pungent,firm,appenzeller
+appetizer,yes,flavourful,soft,brie
+appetizer,yes,pungent,soft,chevres
+appetizer,yes,mild,firm,gouda
+appetizer,yes,flavourful,firm,gouda
+appetizer,yes,pungent,firm,asiage
+salad,yes,mild,soft,brie
+salad,yes,flavourful,soft,brie
+salad,yes,pungent,soft,chevres
+salad,yes,mild,firm,gouda
+salad,yes,flavourful,firm,gouda
+salad,yes,pungent,firm,edam

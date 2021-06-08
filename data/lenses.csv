@@ -1,0 +1,25 @@
+Age,Visual Deficiency,Astigmatism,Tear Production,Recommended Lenses
+young,myolpia,no,reduced,none
+young,myolpia,no,normal,soft
+young,myolpia,yes,reduced,none
+young,myolpia,yes,normal,hard
+young,hypermetropia,no,reduced,none
+young,hypermetropia,no,normal,soft
+young,hypermetropia,yes,reduced,none
+young,hypermetropia,yes,normal,hard
+pre-presbiopic,myolpia,no,reduced,none
+pre-presbiopic,myolpia,no,normal,soft
+pre-presbiopic,myolpia,yes,reduced,none
+pre-presbiopic,myolpia,yes,normal,hard
+pre-presbiopic,hypermetropia,no,reduced,none
+pre-presbiopic,hypermetropia,no,normal,soft
+pre-presbiopic,hypermetropia,yes,reduced,none
+pre-presbiopic,hypermetropia,yes,normal,none
+presbiopic,myolpia,no,reduced,none
+presbiopic,myolpia,no,normal,none
+presbiopic,myolpia,yes,reduced,none
+presbiopic,myolpia,yes,normal,hard
+presbiopic,hypermetropia,no,reduced,none
+presbiopic,hypermetropia,no,normal,soft
+presbiopic,hypermetropia,yes,reduced,none
+presbiopic,hypermetropia,yes,normal,none
