@@ -9,8 +9,7 @@ obtain a higher test accuracy. Moreover, the results show that RRULES outperform
 the coverage rate up to a factor of 7 while running twice or three times faster consistently over several datasets. 
 
 This repository contains both the code for our algorithm [RRULES][paper], and an implementation of the original paper 
-[RULES]
-[rules].
+[RULES][rules].
 
 ## Requirements
 This project has been build using:
@@ -42,14 +41,14 @@ applied to any dataset. Regarding the preprocessing step, there are the followin
 - `--discretize_ints`: Flag to indicate that integers have to be discretized. By default, the script treats integers 
   as categories (as many categorical datasets are encoded this way).
 - `--bins bins` : Number of bins in which numerical attributes should be discretized in.
-- `--discretize_mode 'equal|freq'`: If 'equal' is selected, the range of any numerical attribute will be divided 
+- `--discretize_mode 'equal'|'freq'`: If 'equal' is selected, the range of any numerical attribute will be divided 
   into `bins` equal bins. If 'freq' is selected, bin boundaries will be decided such that each bin contain the same 
   number of examples.
   
 Finally, there are some parameters that let the user control the training and output:
 - `--train_only`: If set, the script will not split the data into train and test, and only train stage will be run. 
   This flag should be set to reproduce the results of the original [RULES paper][rules].
-- `--method 'Original|RRULES'`: Induction algorithm to use. Defaults to 'RRULES'.
+- `--method 'Original'|'RRULES'`: Induction algorithm to use. Defaults to 'RRULES'.
 - `--print_time`: If set, the script outputs the induction time.
 - `--print_rules`: If set, the script outputs the inducted rule set.
 - `--print_metrics`: If set, the script outputs the Precision and Coverage metrics for each rule, as well as overall 
