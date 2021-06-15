@@ -62,11 +62,18 @@ $ python main.py --dataset mushroom --print_time --print_rules --print_metrics
 ## Citation
 You can cite our work using:
 ```bibtex
-(to appear)
+@misc{pallisersans2021rrules,
+      title={RRULES: An improvement of the RULES rule-based classifier}, 
+      author={Rafel Palliser-Sans},
+      year={2021},
+      eprint={2106.07296},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
-[paper]:paper
-[rules]:https://www.sciencedirect.com/science/article/abs/pii/S0957417499800086
+[paper]: https://arxiv.org/abs/2106.07296
+[rules]: https://www.sciencedirect.com/science/article/abs/pii/S0957417499800086
 [python]: https://www.python.org/
 [numpy]: https://numpy.org/
 [pandas]: https://pandas.pydata.org/
