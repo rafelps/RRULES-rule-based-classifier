@@ -14,8 +14,8 @@ This repository contains both the code for our algorithm [RRULES][paper], and an
 ## Requirements
 This project has been build using:
 - [Python][python] 3.7
-- [NumPy][numpy] 1.19.2
-- [Pandas][pandas] 1.2.0
+- [NumPy][numpy] 1.20.3
+- [Pandas][pandas] 1.2.4
 - [Scikit-learn][sklearn] 0.24.2
 
 ## Usage
