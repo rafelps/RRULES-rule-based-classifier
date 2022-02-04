@@ -388,3 +388,5 @@ class RULES:
 
     def __my_vectorized_mapping(self, i, x):
         return self.preproc_dict[i][x]
+    
+print('Hello World')
